@@ -1,0 +1,30 @@
+Step-by-Step Weather App Guide
+
+Step 1: Create a Project Folder
+Create a folder named weather-app on your desktop.
+Inside it, create:
+->index.html
+->style.css
+->script.js
+
+Step 2: Get API Key from OpenWeatherMap
+Go to https://openweathermap.org/api
+Sign up for a free account
+Go to your profile → API keys → Copy your key
+
+Step 3: Install Live Server
+Click Install on Live Server by Ritwick Dey (65mb)
+
+ Step 4: Open index.html
+Right-click anywhere inside the index.html code
+Click "Open with Live Server"
+
+Step 5: View in Browser
+A browser window will automatically open, e.g., at:
+http://127.0.0.1:5500/index.html
+This is your running weather app!
+
+Step 6: Test It
+Type a city name (like Mumbai or London)
+Click Get Weather
+You should see temperature, weather, and humidity info.
